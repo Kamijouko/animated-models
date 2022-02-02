@@ -1,4 +1,4 @@
-# http://vberlier.github.io/animated-models/
+# http://kamijouko.github.io/animated-models/
 
 A model animator for minecraft json models.
 
